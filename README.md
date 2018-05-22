@@ -1,2 +1,1 @@
-# learn2fly
-simple game developed by PyOpenGl 
+# Learn-2-Fly
